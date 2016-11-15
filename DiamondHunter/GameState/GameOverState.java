@@ -20,7 +20,7 @@ import com.neet.DiamondHunter.Manager.JukeBox;
 import com.neet.DiamondHunter.Manager.Keys;
 
 public class GameOverState extends GameState {
-	
+	//this is a freaking catfish that can fly without wing and legs.
 	private Color color;
 	
 	private int rank;
